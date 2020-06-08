@@ -10,5 +10,5 @@
   - MSBuild
     - [如何建立可透過 PackageReference 來運行參考包中的 MSBuild 程式](Impl/msbuild/how-to-fire-msbuild-targets-when-package-reference)
   - TypeScript    
-    - [裝飾器可以怎麼用](Impl//ts/decorator-how-to-use)
-    - [TypeScript的相依性注入](Impl//ts/what-happend-with-di)
+    - [裝飾器可以怎麼用](Impl/ts/decorator-how-to-use)
+    - [TypeScript的相依性注入](Impl/ts/what-happend-with-di)
