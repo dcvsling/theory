@@ -1,0 +1,112 @@
+{
+  "main": {
+    "id": "4e65720dd26bfb5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ebb935836c1aa11",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Impl/csharp/fluent-api.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91921fe9f98c3998",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b3cd1dca8def52a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce0c135e688d5b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fee1db46cf45c6f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b46a24755833d429",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc33d3248dbfd742",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9350fb46e5d907e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Impl/csharp/fluent-api.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "739a8c257b9108de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Impl/csharp/fluent-api.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2ebb935836c1aa11",
+  "lastOpenFiles": [
+    "Impl/csharp/functional-in-csharp.md",
+    "Impl/csharp/queryable.md",
+    "Untitled.md",
+    "Impl/csharp/action-filter-middleware.md",
+    "Patterns/decorator-in-di.md",
+    "Patterns/ioc.md",
+    "OO/README.md",
+    "SUMMARY.md",
+    "node_modules/mermaid/README.md",
+    "README.md"
+  ]
+}
